@@ -1,4 +1,6 @@
-# Nu primesc notă pentru că nu am pus titlu și descriere
+# TalentMatch
+
+Descriere: TalentMatch este o aplicație interactivă în consolă care ajută candidații să își adapteze CV-ul la un job. Utilizatorul își importă CV-ul dintr-un fișier structurat, apoi introduce descrierea unui job. Aplicația extrage cerințele din text, calculează cât de bine se potrivește CV-ul și selectează din experiența candidatului doar realizările relevante pentru acel job, fără să adauge nimic nou. Rezultatul este un CV adaptat, însoțit de un raport care explică ce a fost inclus și ce a fost omis. Abilitățile, sinonimele lor și datele de test sunt citite din fișiere externe.
 
 ### Folosiți template-ul corespunzător grupei voastre!
 
